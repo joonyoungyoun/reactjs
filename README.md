@@ -1,3 +1,17 @@
+환경설치
+[React] 개발 환경 셋팅하기
+설치할 프로그램
+1. node.js(+npm)
+2. 에디터
+3. Git
+https://brunch.co.kr/@eight-two-five/15
+
+<summary>
+  1. cd [생성한 경로]
+  2. create-react-app
+  3. npm run start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
